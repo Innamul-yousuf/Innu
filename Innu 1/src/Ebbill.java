@@ -1,3 +1,4 @@
+//Super paa !!!
 import java.util.Scanner;
 public class Ebbill {
 	public static void main (String[] arg){
